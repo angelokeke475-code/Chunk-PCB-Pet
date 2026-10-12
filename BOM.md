@@ -12,12 +12,11 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [XIAO-ESP32-C3-SMD](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4Wl101_SZDpJhbczqR3Tm9gFnzD32cHtZ_JkOJg_aXjEY8Sm8HA08Q) | Controller Board for Chunk | 1 | $4.99 | $4.99 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?srsltid=AU7gw4Wl101_SZDpJhbczqR3Tm9gFnzD32cHtZ_JkOJg_aXjEY8Sm8HA08Q) |
 | [0.96 Inch OLED Display](https://www.amazon.com/dp/B0GBVWBWCR?th=1) | Display Screen for Chunk | 4 | $2.50 | $10.00 | [DORHEA](https://www.amazon.com/dp/B0GBVWBWCR?th=1) |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | Switches for board options | 1 | $8.99 | $8.99 | [Zyghjort](https://www.amazon.com//dp/B0FQP8VYX4) |
 | [Keycaps](https://www.amazon.com/YUNLEI-Mechanical-Keyboard-Replacement-Accessories/dp/B0D1C8JG1X/ref=sr_1_13?crid=3HU6V0BXD7U3&dib=eyJ2IjoiMSJ9.QNqa_P_8LhYykj66suL-534rV1k25VdRIcMtXW0VeG0Qdqy9Sp7O0rYVv119jiyoDcE8eqgnWlBTgf4hU0s8ytVfYUHwzfnWC5KNZS4mIN6XNYSxrb_YGmKUUS0xinEmAJ-qVcfD6vN5wkQZxqf7YAlH1G5xJibDaOqFg1SgjOrPTBcdxOJM3ru9o6m0wl6z6lt74G9dougbegM9l1qpRBtzxDMxm4-OIyy2vl4X55I1of-s1YdI1bNSMRjXqLzFtUgKYzc68AmBtaOkLv6fVrNHpJHgpv4lhn3MElgzMlg.tAD_A0sx3pQM-aGnqBb-oJUXESXTJXvs-VT9x1k24Cs&dib_tag=se&keywords=blank+keycaps+for+mx+switches&qid=1791768861&s=electronics&sprefix=blank+keycaps+for+mx+switches%2Celectronics%2C188&sr=1-13) | Caps for MX Switches | 1 | $5.99 | $5.99 | [YUNLEI](https://www.amazon.com/YUNLEI-Mechanical-Keyboard-Replacement-Accessories/dp/B0D1C8JG1X/ref=sr_1_13?crid=3HU6V0BXD7U3&dib=eyJ2IjoiMSJ9.QNqa_P_8LhYykj66suL-534rV1k25VdRIcMtXW0VeG0Qdqy9Sp7O0rYVv119jiyoDcE8eqgnWlBTgf4hU0s8ytVfYUHwzfnWC5KNZS4mIN6XNYSxrb_YGmKUUS0xinEmAJ-qVcfD6vN5wkQZxqf7YAlH1G5xJibDaOqFg1SgjOrPTBcdxOJM3ru9o6m0wl6z6lt74G9dougbegM9l1qpRBtzxDMxm4-OIyy2vl4X55I1of-s1YdI1bNSMRjXqLzFtUgKYzc68AmBtaOkLv6fVrNHpJHgpv4lhn3MElgzMlg.tAD_A0sx3pQM-aGnqBb-oJUXESXTJXvs-VT9x1k24Cs&dib_tag=se&keywords=blank+keycaps+for+mx+switches&qid=1791768861&s=electronics&sprefix=blank+keycaps+for+mx+switches%2Celectronics%2C188&sr=1-13) |
-| **Parts subtotal** | — | — | — | **$29.97** | — |
+| **Parts subtotal** | — | — | — | **$24.98** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$29.97** | — |
+| **Total** | — | — | — | **$24.98** | — |
 
-$0.03 left of the tier's funding.
+$5.02 left of the tier's funding.
