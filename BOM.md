@@ -16,7 +16,7 @@
 | [Keycaps](https://www.amazon.com/YUNLEI-Mechanical-Keyboard-Replacement-Accessories/dp/B0D1C8JG1X/ref=sr_1_13?crid=3HU6V0BXD7U3&dib=eyJ2IjoiMSJ9.QNqa_P_8LhYykj66suL-534rV1k25VdRIcMtXW0VeG0Qdqy9Sp7O0rYVv119jiyoDcE8eqgnWlBTgf4hU0s8ytVfYUHwzfnWC5KNZS4mIN6XNYSxrb_YGmKUUS0xinEmAJ-qVcfD6vN5wkQZxqf7YAlH1G5xJibDaOqFg1SgjOrPTBcdxOJM3ru9o6m0wl6z6lt74G9dougbegM9l1qpRBtzxDMxm4-OIyy2vl4X55I1of-s1YdI1bNSMRjXqLzFtUgKYzc68AmBtaOkLv6fVrNHpJHgpv4lhn3MElgzMlg.tAD_A0sx3pQM-aGnqBb-oJUXESXTJXvs-VT9x1k24Cs&dib_tag=se&keywords=blank+keycaps+for+mx+switches&qid=1791768861&s=electronics&sprefix=blank+keycaps+for+mx+switches%2Celectronics%2C188&sr=1-13) | Caps for MX Switches | 1 | $5.99 | $5.99 | [YUNLEI](https://www.amazon.com/YUNLEI-Mechanical-Keyboard-Replacement-Accessories/dp/B0D1C8JG1X/ref=sr_1_13?crid=3HU6V0BXD7U3&dib=eyJ2IjoiMSJ9.QNqa_P_8LhYykj66suL-534rV1k25VdRIcMtXW0VeG0Qdqy9Sp7O0rYVv119jiyoDcE8eqgnWlBTgf4hU0s8ytVfYUHwzfnWC5KNZS4mIN6XNYSxrb_YGmKUUS0xinEmAJ-qVcfD6vN5wkQZxqf7YAlH1G5xJibDaOqFg1SgjOrPTBcdxOJM3ru9o6m0wl6z6lt74G9dougbegM9l1qpRBtzxDMxm4-OIyy2vl4X55I1of-s1YdI1bNSMRjXqLzFtUgKYzc68AmBtaOkLv6fVrNHpJHgpv4lhn3MElgzMlg.tAD_A0sx3pQM-aGnqBb-oJUXESXTJXvs-VT9x1k24Cs&dib_tag=se&keywords=blank+keycaps+for+mx+switches&qid=1791768861&s=electronics&sprefix=blank+keycaps+for+mx+switches%2Celectronics%2C188&sr=1-13) |
 | [PCB](https://www.jlcpcb.com/) | PCB Board for all components | 1 | $4.00 | $4.00 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$18.98** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$18.98** | — |
+| **Tax & shipping** | — | — | — | **$15.82** | — |
+| **Total** | — | — | — | **$34.80** | — |
 
-$11.02 left of the tier's funding.
+**$4.80 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
